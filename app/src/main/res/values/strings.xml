@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <!--<string name="app_name">English Dictionary - Offline</string>-->
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-4607833786971178~7261129570</string>
+    <string name="banner_home_footer">ca-app-pub-4607833786971178/2974454103</string>
+
+</resources>
